@@ -1,0 +1,23 @@
+# Local PPMI data, restricted derivatives, and generated outputs
+data/raw/
+data/derived/
+outputs/
+*.xlsx
+*.xls
+*.npz
+*.npy
+*.pkl
+*.joblib
+
+# Python caches and environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+.env
+.env.*
+.DS_Store
+Thumbs.db

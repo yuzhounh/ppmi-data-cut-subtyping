@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying manuscript."
+type: software
+title: "Stability and external prognostic validity of unsupervised Parkinson's disease subtyping across 11 PPMI curated releases and chronological sample sizes"
+version: "1.0.0"
+date-released: "2026-11-21"
+license: MIT
+repository-code: "https://github.com/yuzhounh/ppmi-data-cut-subtyping"
+authors:
+  - family-names: Wang
+    given-names: Jing
+    orcid: "https://orcid.org/0000-0002-3286-073X"
+    affiliation: "School of Computer and Information Technology, Xinyang Normal University, Xinyang, China"
+    email: "wangjing@xynu.edu.cn"
+keywords:
+  - Parkinson's disease
+  - PPMI
+  - unsupervised subtyping
+  - clustering stability
+  - curated data cuts
+  - reproducibility
